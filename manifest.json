@@ -1,0 +1,17 @@
+
+{
+  "name": "Unique TV - AI Powered Streaming",
+  "short_name": "Unique TV",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#E50914",
+  "description": "Premium AI-powered streaming dashboard for global cinema.",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/716/716429.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Unique TV - Cinematic Streaming",
+  "description": "Premium AI-powered streaming dashboard for global cinema with 4K support and Leanback navigation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
